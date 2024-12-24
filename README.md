@@ -52,7 +52,5 @@ We welcome contributions! If you have ideas to improve the project, feel free to
 ## Disclaimer
 This project is intended for educational purposes only. Please ensure that your use of this technology complies with ethical standards and applicable laws.
 
----
 
-Thank you for exploring the world of deepfake technology with us!
 
