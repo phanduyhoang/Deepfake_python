@@ -1,6 +1,6 @@
 # Deepfake Technology Using Python
 
-Welcome to the **Deepfake Python** project! This repository demonstrates how to create a basic deepfake program using Python and several powerful libraries such as Mediapipe, NumPy, and OpenCV.
+Welcome to my **Deepfake Python** project! This repository demonstrates how to create a basic deepfake program using Python and several powerful libraries such as Mediapipe, NumPy, and OpenCV.
 
 ## Overview
 In this project, we will create a deepfake application that maps the facial landmarks of one person onto another in real-time. The process involves extracting 3D landmarks, matching them, and using affine transformations to replicate facial expressions dynamically.
